@@ -22,34 +22,35 @@ Business data is spread across multiple sources, the data is over the place – 
 Build an interactive Excel dashboard that enables regional sales managers to monitor revenue trends and product performance while supporting data-driven decision-making.
 
 ## Tools Used
-Microsoft Excel
-Power Query
-Power Pivot
-DAX
-Pivot Tables
-Pivot Charts
-Slicers
+Microsoft Excel,
+Power Query,
+Power Pivot,
+DAX,
+Pivot Tables,
+Pivot Charts,
+Slicers,
 Data Modeling
 
 ## Dashboard Preview
 
 (Insert screenshot here.)
 
-📈 Dashboard Features
 
-✅ Monthly Revenue Trend
+## Dashboard Features
 
-✅ Orders by Product Category
+ Monthly Revenue Trend,
 
-✅ Country-wise Analysis
+ Orders by Product Category,
 
-✅ Interactive Slicers
+ Country-wise Analysis,
 
-✅ Executive KPI Cards
+ Interactive Slicers,
 
-✅ Dynamic Pivot Charts
+ Executive KPI Cards,
 
-📂 Data Sources
+ Dynamic Pivot Charts
+
+## Data Sources
 SQL Server
 CSV Files
 Static PDF Reports
