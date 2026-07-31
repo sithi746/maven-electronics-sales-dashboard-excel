@@ -55,8 +55,6 @@ SQL Server,
 CSV Files,
 Static PDF Reports
 
-## Business Conclusion
+## Executive Summary
 
-The dashboard consolidates sales data into a single interactive report, enabling regional sales managers to monitor revenue trends, evaluate product performance, and compare sales across different countries. By integrating data from multiple sources into one dashboard, stakeholders can quickly identify performance patterns and make informed decisions without manually combining reports.
-
-The analysis shows that sales performance varies significantly across product categories and over time, highlighting the importance of monitoring monthly trends and regional performance to support strategic planning.
+The analysis shows that Maven Electronics generated over $20.99M in revenue through 901 orders across 9 countries. Computers lead all product categories in order volume, while TV & Video contributes the fewest orders. Revenue reached its peak during 2019, with a subsequent slowdown in later periods, suggesting opportunities to investigate market conditions and optimize product strategies. The dashboard provides a centralized view of sales performance, enabling faster, data-driven decision-making.
