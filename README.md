@@ -51,6 +51,12 @@ Data Modeling
  Dynamic Pivot Charts
 
 ## Data Sources
-SQL Server
-CSV Files
+SQL Server,
+CSV Files,
 Static PDF Reports
+
+## Business Conclusion
+
+The dashboard consolidates sales data into a single interactive report, enabling regional sales managers to monitor revenue trends, evaluate product performance, and compare sales across different countries. By integrating data from multiple sources into one dashboard, stakeholders can quickly identify performance patterns and make informed decisions without manually combining reports.
+
+The analysis shows that sales performance varies significantly across product categories and over time, highlighting the importance of monitoring monthly trends and regional performance to support strategic planning.
