@@ -33,7 +33,7 @@ Data Modeling
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/sithi746/maven-electronics-sales-dashboard-excel/blob/main/Maven%20Electronics%20Sales%20Dashboard.png)
+![Dashboard](https://github.com/sithi746/maven-electronics-sales-dashboard-excel/blob/main/MAVEN_SALES_DASHBOARD.png)
 
 ## sales report preview 
 ![Dashboard](https://github.com/sithi746/maven-electronics-sales-dashboard-excel/blob/main/Product%20Category%20Sales%20Report.png)
